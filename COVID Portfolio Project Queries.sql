@@ -1,3 +1,5 @@
+-- Brian Ngo | COVID Data Portfolio Project | https://ourworldindata.org/covid-deaths
+
 Select *
 FROM PortfolioProject..CovidDeaths
 ORDER BY 3, 4
